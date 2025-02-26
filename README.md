@@ -2,6 +2,9 @@
 
 A simple hotel management system using C++ for **room booking, guest management, and feedback handling**.
 
+ Access the Project
+  You can access the full project here: [Hotel Management System](https://github.com/alishba-batool/Hotel-Management-System)
+
  Features
 -  **Room Booking & Cancellation**
 -  **Guest Management (Check-in & Check-out)**
@@ -12,9 +15,5 @@ A simple hotel management system using C++ for **room booking, guest management,
 - **C++** (Structured Programming)
 - **File Handling** for storing feedbacks
 
- How to Run the Project
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/your-username/Hotel-Management-System.git
-   cd Hotel-Management-System
+
 
